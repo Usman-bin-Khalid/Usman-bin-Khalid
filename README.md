@@ -71,7 +71,7 @@ Alongside the above, I’ve also built:
 - 💼 Company: App Sustain LLC (UK-based) 
 - 📧 Email: usmanbinkhalidpk@gmail.com  
 - 📱 WhatsApp: **+92 320 7539323**  
-- 🌐 LinkedIn: [linkedin.com/in/usman-bin-khalid](www.linkedin.com/in/usmanbinkhalidpk)  
+- 🌐 LinkedIn: [linkedin.com/in/usman-bin-khalid](https://www.linkedin.com/in/usmanbinkhalidpk)  
 
 ---
 
