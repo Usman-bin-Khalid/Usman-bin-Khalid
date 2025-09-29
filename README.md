@@ -34,22 +34,20 @@ Currently working at **App Sustain LLC (UK-based company)**, building high-quali
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
----
-
 ## 📂 Featured Projects
 Here are some of my highlighted open-source works:
 
 - 📰 [Newzler App](https://github.com/Usman-bin-Khalid/Newzler-App) – Real-time news app with onboarding, auth & profile
-- 🦠 [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker) – Global & country-wise COVID-19 stats
-- 🛒 [E-Shop](https://github.com/Usman-bin-Khalid/E-Shop) – Offline-first e-commerce app (Hive/Sqflite)
-- 💳 [CONTRO](https://github.com/Usman-bin-Khalid/CONTRO-App) – Next-gen mobile banking & fintech app
-- 💻 [iCoder Website](https://github.com/Usman-bin-Khalid/iCoder-Website-Using-BootStrap) – Tech blogging website with Bootstrap
-- ✍️ [TextUtils Django Web App](https://github.com/Usman-bin-Khalid/Text_Utils_Django_Website) – Django app for text transformations (uppercase, remove punctuation, extra spaces, new lines)
-- 💻 [Complete Backend Course with Node.js & Express.js](https://github.com/Usman-bin-Khalid/Complete-Course-Backend-Node-Js-Express-Js-Mongo-DB-REST-APIs.git) - A complete backend development course repository using Node.js, Express.js, and MongoDB. Covers all backend concepts with REST APIs and real-world projects like Airbnb backend.
-- ⚙️ [Django REST APIs Course](https://github.com/Usman-bin-Khalid/Django-Rest-APIs-Complete-Course.git) - A complete Django REST Framework (DRF) course repository with examples of models, views, serializers, CRUD APIs, authentication, and real-world projects.
-- 📱 [News App in Flutter](https://github.com/Usman-bin-Khalid/News_App_Complete-Frontend-Backend-API-.git) - A complete news app built in Flutter with a backend API.
+- 🦠 [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker) – Track global & country-wise COVID-19 stats
+- 🛒 [E-Shop](https://github.com/Usman-bin-Khalid/E-Shop) – Offline-first e-commerce app with Hive & Sqflite
+- 💳 [CONTRO](https://github.com/Usman-bin-Khalid/CONTRO-App) – Modern mobile banking & fintech app
+- 💻 [iCoder Website](https://github.com/Usman-bin-Khalid/iCoder-Website-Using-BootStrap) – Tech blogging site built with Bootstrap
+- ✍️ [TextUtils Django Web App](https://github.com/Usman-bin-Khalid/Text_Utils_Django_Website) – Django app for text transformations & utilities
+- 💻 [Complete Backend Course with Node.js & Express.js](https://github.com/Usman-bin-Khalid/Complete-Course-Backend-Node-Js-Express-Js-Mongo-DB-REST-APIs.git) – Node.js + Express.js course with REST APIs & projects
+- ⚙️ [Django REST APIs Course](https://github.com/Usman-bin-Khalid/Django-Rest-APIs-Complete-Course.git) – DRF course with models, CRUD APIs, auth & projects
+- 📱 [News App in Flutter](https://github.com/Usman-bin-Khalid/News_App_Complete-Frontend-Backend-API-.git) – Flutter news app with backend API
+- 🤖 [Jarvis AI Voice & Text Assistant](https://github.com/Usman-bin-Khalid/Jarvis-AI-Voice-and-Text-Assistant-Python-.git) – Python AI assistant with voice/text, news, music & Tkinter UI
 
----
 
 ## 📂 Other Project Categories
 Alongside the above, I’ve also built:
