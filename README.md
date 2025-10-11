@@ -37,17 +37,17 @@ Currently working at **App Sustain LLC (UK-based company)**, building high-quali
 ## 📂 Featured Projects
 Here are some of my highlighted open-source works:
 
-- 📰 [Newzler App](https://github.com/Usman-bin-Khalid/Newzler-App) – Real-time news app with onboarding, auth & profile
-- 🦠 [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker) – Track global & country-wise COVID-19 stats
-- 🛒 [E-Shop](https://github.com/Usman-bin-Khalid/E-Shop) – Offline-first e-commerce app with Hive & Sqflite
-- 💳 [CONTRO](https://github.com/Usman-bin-Khalid/CONTRO-App) – Modern mobile banking & fintech app
-- 💻 [iCoder Website](https://github.com/Usman-bin-Khalid/iCoder-Website-Using-BootStrap) – Tech blogging site built with Bootstrap
-- ✍️ [TextUtils Django Web App](https://github.com/Usman-bin-Khalid/Text_Utils_Django_Website) – Django app for text transformations & utilities
-- 💻 [Complete Backend Course with Node.js & Express.js](https://github.com/Usman-bin-Khalid/Complete-Course-Backend-Node-Js-Express-Js-Mongo-DB-REST-APIs.git) – Node.js + Express.js course with REST APIs & projects
-- ⚙️ [Django REST APIs Course](https://github.com/Usman-bin-Khalid/Django-Rest-APIs-Complete-Course.git) – DRF course with models, CRUD APIs, auth & projects
-- 📱 [News App in Flutter](https://github.com/Usman-bin-Khalid/News_App_Complete-Frontend-Backend-API-.git) – Flutter news app with backend API
-- 🤖 [Jarvis AI Voice & Text Assistant](https://github.com/Usman-bin-Khalid/Jarvis-AI-Voice-and-Text-Assistant-Python-.git) – Python AI assistant with voice/text, news, music & Tkinter UI
-
+- 📰 [Newzler App](https://github.com/Usman-bin-Khalid/Newzler-App) – Real-time news app with onboarding, auth & profile  
+- 🦠 [Covid Tracker](https://github.com/Usman-bin-Khalid/Covid-Tracker) – Track global & country-wise COVID-19 stats  
+- 🛒 [E-Shop](https://github.com/Usman-bin-Khalid/E-Shop) – Offline-first e-commerce app with Hive & Sqflite  
+- 💳 [CONTRO](https://github.com/Usman-bin-Khalid/CONTRO-App) – Modern mobile banking & fintech app  
+- 💻 [iCoder Website](https://github.com/Usman-bin-Khalid/iCoder-Website-Using-BootStrap) – Tech blogging site built with Bootstrap  
+- ✍️ [TextUtils Django Web App](https://github.com/Usman-bin-Khalid/Text_Utils_Django_Website) – Django app for text transformations & utilities  
+- 💻 [Complete Backend Course with Node.js & Express.js](https://github.com/Usman-bin-Khalid/Complete-Course-Backend-Node-Js-Express-Js-Mongo-DB-REST-APIs.git) – Node.js + Express.js course with REST APIs & projects  
+- ⚙️ [Django REST APIs Course](https://github.com/Usman-bin-Khalid/Django-Rest-APIs-Complete-Course.git) – DRF course with models, CRUD APIs, auth & projects  
+- 📱 [News App in Flutter](https://github.com/Usman-bin-Khalid/News_App_Complete-Frontend-Backend-API-.git) – Flutter news app with backend API  
+- 🤖 [Jarvis AI Voice & Text Assistant](https://github.com/Usman-bin-Khalid/Jarvis-AI-Voice-and-Text-Assistant-Python-.git) – Python AI assistant with voice/text, news, music & Tkinter UI  
+- 🌦️ [Weather App](https://github.com/Usman-bin-Khalid/Weather-App-With-API.git) – Real-time weather app showing 24-hour forecasts, past & upcoming 7 days, wind, and humidity details for all cities
 
 ## 📂 Other Project Categories
 Alongside the above, I’ve also built:
