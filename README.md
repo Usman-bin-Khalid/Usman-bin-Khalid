@@ -1,4 +1,4 @@
-This is my Personal Repository on Github '# 👋 Hi, I'm Usman Khalid
+# 👋 Hi, I'm Usman Khalid
 
 🚀 **Flutter Developer | 3+ Years of Experience | Mobile App Specialist**
 
