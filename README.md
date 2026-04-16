@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usman Khalid
 
-🚀 **Flutter Developer | 3+ Years of Experience | Mobile App Specialist**
+🚀 **Flutter Developer | 4+ Years of Experience | Mobile App Specialist**
 
 I'm a passionate **Flutter & Dart developer** with **3 years of professional experience**, having delivered **15+ real-world projects** for national & international clients.
 Currently working at **App Sustain Pvt Ltd (UK-based company)**, building high-quality mobile solutions.
@@ -11,7 +11,7 @@ Currently working at **App Sustain Pvt Ltd (UK-based company)**, building high-q
 - 🎓 Graduated from the **University of Sargodha (UOS), Punjab, Pakistan** with a **BS in Information Technology (IT)**
 - 🌍 Open-source enthusiast — all my public repos are free to use
 - 📱 Specialized in **Flutter & Dart** for cross-platform apps
-- 🏆 Experience: 15+ projects (E-Commerce, FinTech, Health, News, Utility, Banking, Streaming, AI, Religious, and more)
+- 🏆 Experience: 30+ projects (E-Commerce, FinTech, Health, News, Utility, Banking, Streaming, AI, Religious, and more)
 - 🤝 Worked with **national & international clients**
 - 💡 Strong focus on **clean architecture, state management, and performance**
 
