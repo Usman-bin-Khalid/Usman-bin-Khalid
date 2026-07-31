@@ -11,7 +11,7 @@ Currently working at **App Sustain Pvt Ltd (UK-based company)**, building high-q
 - 🎓 Graduated from the **University of Sargodha (UOS), Punjab, Pakistan** with a **BS in Information Technology (IT)**
 - 🌍 Open-source enthusiast — all my public repos are free to use
 - 📱 Specialized in **Flutter & Dart** for cross-platform apps
-- 🏆 Experience: 30+ projects (E-Commerce, FinTech, Health, News, Utility, Banking, Streaming, AI, Religious, and more)
+- 🏆 Experience: 35+ projects (E-Commerce, FinTech, Health, News, Utility, Banking, Streaming, AI, Religious, and more)
 - 🤝 Worked with **national & international clients**
 - 💡 Strong focus on **clean architecture, state management, and performance**
 
