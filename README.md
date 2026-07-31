@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Usman Khalid
 
-🚀 **Flutter Developer | 4+ Years of Experience | Mobile App Specialist**
+🚀 **Full Stack Flutter Developer | 4+ Years of Experience | Mobile App Specialist**
 
-I'm a passionate **Flutter & Dart developer** with **4 years of professional experience**, having delivered **25+ real-world projects** for national & international clients.
+I'm a passionate **Full Stack Flutter(Dart) and Node JS(Backend) developer** with **4 years of professional experience**, having delivered **25+ real-world projects** for national & international clients.
 Currently working at **App Sustain Pvt Ltd (UK-based company)**, building high-quality mobile solutions.
 
 ---
